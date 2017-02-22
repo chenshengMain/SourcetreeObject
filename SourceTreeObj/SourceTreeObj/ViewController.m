@@ -16,11 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"sencondBranch  01");
-    NSLog(@"master 01改动");
-    NSLog(@"CSBranch 01 改动改动");
-    
-    NSLog(@"看能否提交到主master上面");
 
 }
 

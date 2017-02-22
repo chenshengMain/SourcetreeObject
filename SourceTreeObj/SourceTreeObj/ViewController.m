@@ -23,13 +23,18 @@
     NSLog(@"看能否提交到主master上面");
 
     NSLog(@"01 改动");
+    
+    
+    
 }
 
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-
-    NSLog(@"master-01branch 修改的");
+    // Dispose of any resources that can be recreated.
+    
+    
+    NSLog(@"master—02branch 修改的");
 }
 
 
